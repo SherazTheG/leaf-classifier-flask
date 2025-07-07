@@ -137,5 +137,5 @@ This project is for educational and demonstration purposes.
 
 ## 🙌 Acknowledgments
 
-Built by **Mohamed Sheraz M** — Machine Learning Intern @ Vcodez  
+Built by **Mohamed Sheraz M** 
 Feel free to fork, improve, and contribute!
